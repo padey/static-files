@@ -79,6 +79,15 @@
       "format": "hostname"
     },
     {
+      "file": "free_image_host.txt",
+      "identifier": "free_image_host",
+      "display_name": "Free File Hosts",
+      "headers": [
+        "entry"
+      ],
+      "format": "hostname"
+    },
+    {
       "file": "high_trust_sender_root_domains.txt",
       "identifier": "high_trust_sender_root_domains",
       "display_name": "Highly reputable sending root domains",
